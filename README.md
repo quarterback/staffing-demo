@@ -114,7 +114,6 @@ SUPABASE_URL=your_supabase_url
 SUPABASE_ANON_KEY=your_supabase_anon_key
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
 ```
-
 ### Supabase Setup
 The application uses a key-value store architecture that's automatically initialized. No manual database setup required.
 
@@ -184,14 +183,6 @@ The application is a standard React app and can be deployed to:
 - Add tests for new features
 - Update documentation as needed
 - Ensure responsive design principles
-
-## 📊 Demo
-
-See `DEMO_SCRIPT.md` for a comprehensive demo guide including:
-- Technical architecture overview
-- Feature walkthrough
-- Business value propositions
-- Talking points for different audiences
 
 ## 🔒 Security
 
