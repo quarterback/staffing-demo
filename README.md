@@ -2,8 +2,6 @@
 
 An intelligent, cross-functional staffing platform designed for delivery teams. Nautilus helps delivery leaders efficiently staff talent across Design, Engineering, Product Management, and Program Management disciplines using AI-powered recommendations and comprehensive workforce analytics.
 
-![Nautilus Dashboard](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop)
-
 ## ✨ Features
 
 ### 🎯 Intelligent Staffing
